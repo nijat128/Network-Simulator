@@ -1,6 +1,4 @@
 # CP372
-# Names: Nijat Abdulkarimli, Asad Abbas
-# ID: 160584230, 160498330
 from common import *
 
 class sender:
