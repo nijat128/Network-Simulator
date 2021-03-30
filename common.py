@@ -1,6 +1,4 @@
 # CP372
-# Names: Nijat Abdulkarimli, Asad Abbas
-# ID: 160584230, 160498330
 A = 12345
 B = 67890
 TRACE = 1
